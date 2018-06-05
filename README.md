@@ -2,4 +2,4 @@
 forTesting
 
 
-This is [an example](fb-messenger://account "Title") inline link.
+This is [an example](http://fb-messenger://account "Title") inline link.
